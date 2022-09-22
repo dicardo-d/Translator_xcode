@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "0f5-ou-fPf"; */
+"0f5-ou-fPf.normalTitle" = "Pause";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "1pw-JB-Eue"; */
+"1pw-JB-Eue.normalTitle" = "retour";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "CR5-aY-eKE"; */
+"CR5-aY-eKE.normalTitle" = "début";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "LK8-AF-ZIY"; */
+"LK8-AF-ZIY.normalTitle" = "début";
+
+/* Class = "UIButton"; normalTitle = "Countdown"; ObjectID = "PZE-HH-FK3"; */
+"PZE-HH-FK3.normalTitle" = "compte à rebours";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "VA4-ag-hUZ"; */
+"VA4-ag-hUZ.normalTitle" = "réinitialiser";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kea-Cf-3QD"; */
+"kea-Cf-3QD.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "pDf-4V-ILO"; */
+"pDf-4V-ILO.normalTitle" = "arrêt";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "xKo-ME-Tj1"; */
+"xKo-ME-Tj1.text" = "0";
